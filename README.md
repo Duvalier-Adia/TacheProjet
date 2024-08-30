@@ -1,29 +1,8 @@
 # TacheProjet
 
 tacheprojet/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── example/
-│   │   │           └── tacheprojet/
-│   │   │               ├── TacheProjetApplication.java  // Classe principale
-│   │   │               ├── model/                       // Package pour les entités
-│   │   │               │   └── Task.java                // Classe Task
-│   │   │               ├── repository/                  // Package pour les repositories
-│   │   │               │   └── TaskRepository.java      // Interface TaskRepository
-│   │   │               ├── service/                     // Package pour les services
-│   │   │               │   └── TaskService.java         // Classe TaskService
-│   │   │               └── controller/                  // Package pour les contrôleurs
-│   │   │                   └── TaskController.java      // Classe TaskController
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── example/
-│                   └── tacheprojet/
-│                       ├── TacheProjetApplicationTests.java  // Tests d'intégration de base
-│                       └── service/                         // Package pour les tests de service
-│                           └── TaskServiceTest.java         // Test unitaire pour TaskService
+
+src/main/java/com/example/tacheprojet/model/Task.java
 
 
 
